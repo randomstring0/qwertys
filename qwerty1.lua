@@ -10,6 +10,7 @@
 -- make sure you subscribe @Im_Patrick i made a script and share it for free
 -- fling tool and kill animation is only for player not dummy/npc
 -- so when the accessories is fall/gone the script will try to re claim it by respawning and the hat will back, make sure you're not lagging
+-- when you press the green button wait until the script is completely loaded (like the gui and abilities should appear)
 
 --reanimate : empyrean by emper
 -- and also i forgot one credit
