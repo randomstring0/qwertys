@@ -9,6 +9,7 @@
 -- rigs/accessories are in this game: https://www.roblox.com/games/136733829568616/unknown-road-places
 -- make sure you subscribe @Im_Patrick i made a script and share it for free
 -- fling tool and kill animation is only for player not dummy/npc
+-- so when the accessories is fall/gone the script will try to re claim it by respawning and the hat will back, make sure you're not lagging
 
 --reanimate : empyrean by emper
 -- and also i forgot one credit
