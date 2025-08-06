@@ -8,6 +8,7 @@
 -- make sure you wear accessories that will be used as a substitute for your body or (you know what will happen)
 -- rigs/accessories are in this game: https://www.roblox.com/games/136733829568616/unknown-road-places
 -- make sure you subscribe @Im_Patrick i made a script and share it for free
+-- fling tool and kill animation is only for player not dummy/npc
 
 --reanimate : empyrean by emper
 -- and also i forgot one credit
