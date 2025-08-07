@@ -20,6 +20,8 @@
 -- check console if it show something like clown and didnt show any gui it's probbaly not supported
 
 --// tool fling method
+-- // changelog :
+-- fix predictionfling not working
 
 --// the code below is the core script and adjustment/config for the script, keep it together
 
