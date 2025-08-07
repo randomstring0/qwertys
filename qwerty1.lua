@@ -37,7 +37,7 @@ _G.Config = {
         ["HatFling"]        = false, -- Use hats to fling
         ["Highlight"]       = false,  -- Glow targets
         ["PredictionFling"] = false,  -- predict fling (so basicly fling people with body)
-        ["ToolFling"]       = true  -- use Tool from inventory/backpack to fling (don't equip the tools)
+        ["ToolFling"]       = true  -- use Tool from inventory/backpack to fling (don't equip any tools when the script run)
     }
 }
 
