@@ -19,7 +19,7 @@
 -- how to wear multiple hats : https://www.youtube.com/results?search_query=how+to+wear+multiple+hats+on+mobile+kiwi+browser
 -- check console if it show something like clown and didnt show any gui it's probbaly not supported
 
---// tool fling method
+--// tool fling method was set to default
 -- // changelog :
 -- fix predictionfling not working
 
