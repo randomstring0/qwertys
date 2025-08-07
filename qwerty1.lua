@@ -11,6 +11,7 @@
 -- fling tool and kill animation is only for player not dummy/npc
 -- so when the accessories is fall/gone the script will try to re claim it by respawning and the hat will back, make sure you're not lagging
 -- when you press the green button wait until the script is completely loaded (like the gui and abilities should appear)
+-- check if your executor has replicatesignal function 
 
 --reanimate : empyrean by emper
 -- and also i forgot one credit
@@ -19,6 +20,8 @@
 -- check console if it show something like clown and didnt show any gui it's probbaly not supported
 
 --// tool fling method
+
+--// the code below is the core script and adjustment for the script
 
 _G.Config = {
     ["HatCollide"]     = false, -- Collision hats
@@ -29,8 +32,8 @@ _G.Config = {
     ["FlingOption"] = {
         ["HatFling"]        = false, -- Use hats to fling
         ["Highlight"]       = false,  -- Glow targets
-        ["PredictionFling"] = false,  -- predict fling
-        ["ToolFling"]       = true  -- Tool-based fling
+        ["PredictionFling"] = false,  -- predict fling (so basicly fling people with body)
+        ["ToolFling"]       = true  -- use Tool from inventory/backpack to fling (don't equip the tools)
     }
 }
 
