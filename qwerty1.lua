@@ -21,7 +21,7 @@
 
 --// tool fling method
 
---// the code below is the core script and adjustment/congfiguration for the script, keep it together
+--// the code below is the core script and adjustment/config for the script, keep it together
 
 _G.Config = {
     ["HatCollide"]     = false, -- Collision hats
