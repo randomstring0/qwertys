@@ -21,11 +21,11 @@
 -- how to wear multiple hats : https://www.youtube.com/results?search_query=how+to+wear+multiple+hats+on+mobile+kiwi+browser
 -- check console if it show something like clown and didnt show any gui it's probbaly not supported
 
---// tool fling method was set to default
+--// tool fling method was set to default (required any tools from inventory/backpack or you will don't have fling and make sure the tools has collision)
 
 -- // changelog :
--- fix predictionfling not working
--- fix observant makes character stuck when duration is over and player doesn't select any player
+-- fixed predictionfling not working
+-- fixed observant makes character stuck when duration is over and player doesn't select any player
 
 --// the code below is the core script and adjustment/config for the script, keep it together
 
