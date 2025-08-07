@@ -12,6 +12,8 @@
 -- so when the accessories is fall/gone the script will try to re claim it by respawning and the hat will back, make sure you're not lagging
 -- when you press the green button wait until the script is completely loaded (like the gui and abilities should appear)
 -- check if your executor has replicatesignal function 
+-- if you are on game called "just/ a baseplate" you should type "-pd" before run the script because the game is not type of these script (it' for 2021 script)
+-- jab command list if you are inside of that game : https://raw.githubusercontent.com/randomstring0/jab/refs/heads/main/cmdlist.txt
 
 --reanimate : empyrean by emper
 -- and also i forgot one credit
