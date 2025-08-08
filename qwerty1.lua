@@ -12,16 +12,19 @@
 -- so when the accessories is fall/gone the script will try to re claim it by respawning and the hat will back, make sure you're not lagging
 -- when you press the green button wait until the script is completely loaded (like the gui and abilities should appear)
 -- check if your executor has replicatesignal function 
--- if you are on game called "just/ a baseplate" you should type "-pd" before run the script because the game is not type of these script (it' for 2021 script)
+
+-- if you are on game called "just/ a baseplate." you should type "-pd" before run the script because the game is not type of these script (it' for 2021 script)
 -- jab command list if you are inside of that game : https://raw.githubusercontent.com/randomstring0/jab/refs/heads/main/cmdlist.txt
 
---reanimate : empyrean by emper
+-- reanimate : empyrean by emper
 -- and also i forgot one credit
 
 -- how to wear multiple hats : https://www.youtube.com/results?search_query=how+to+wear+multiple+hats+on+mobile+kiwi+browser
 -- check console if it show something like clown and didnt show any gui it's probbaly not supported
 
---// tool fling method was set to default (required any tools from inventory/backpack or you will don't have fling and make sure the tools has collision)
+--// tool fling method was set to default (required any tools from inventory/backpack or you will don't have fling and make sure the tools has collision, dont equip any tools when the script is running to make it work)
+
+-- Sometimes accessories and tools/items used can fall (disappear into the void) due to loss of network ownership.
 
 -- // changelog :
 -- fixed predictionfling not working
