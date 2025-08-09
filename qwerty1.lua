@@ -29,6 +29,7 @@
 -- // changelog :
 -- fixed predictionfling not working
 -- fixed observant makes character stuck when duration is over and player doesn't select any player
+-- prevent fling tool keep falling
 
 --// the code below is the core script and adjustment/config for the script, keep it together
 
