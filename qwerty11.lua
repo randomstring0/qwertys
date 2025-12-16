@@ -1,3 +1,11 @@
+-- Subscribe to @Im_Patrick Right now!
+
+-- get some tutorial how to wear multiple hats:
+-- https://www.youtube.com/results?search_query=how+to+wear+multiple+hats+roblox
+
+-- If the console shows “clown” and no GUI appears, your executor might not be supported.
+
+
 -- noob rig id (paid): 139904067056008, 108186273151388, 72292903231768, 84451219120140, 95290698984301, 14254923976
 -- white rig (paid): 140395948277978, 82942681251131, 102599402682100, 90960046381276, 138364679836274
 
@@ -29,4 +37,4 @@ getgenv().Configuration = {
 loadstring(game:HttpGet("https://raw.githubusercontent.com/randomstring0/qwertys/refs/heads/main/qwerty10.lua"))()
 
 
--- converted by : im_patrick
+-- converted by : patrick
