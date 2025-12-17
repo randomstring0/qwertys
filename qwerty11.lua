@@ -1,4 +1,3 @@
--- Subscribe to @Im_Patrick Right now!
 
 -- get some tutorial how to wear multiple hats:
 -- https://www.youtube.com/results?search_query=how+to+wear+multiple+hats+roblox
